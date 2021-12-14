@@ -15,8 +15,8 @@ module.exports = async (projectName) =>{
                     value:'vue3-component-template'
                 },
                 {
-                    name: 'vue3-component-project',
-                    value:'vue3-component-project'
+                    name: 'vue3-project-template',
+                    value:'vue3-project-template'
                 }
             ],
             validate:(val)=>{

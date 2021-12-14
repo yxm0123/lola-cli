@@ -3,7 +3,7 @@
 
 1.下载到全局
 ```
-npm i lola-cli -g
+npm i @lola/lola-cli -g
 ```
 
 2.使用初始化项目
