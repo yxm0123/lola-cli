@@ -1,10 +1,10 @@
 {
-  "name": "@lola/lola-cli",
-  "version": "1.1.0",
+  "name": "lola-cli",
+  "version": "1.2.0",
   "description": "自定义脚手架",
   "main": "index.js",
   "bin": {
-    "cli": "./bin/cli.js"
+    "cli": "bin/create.js"
   },
   "repository": {
     "type": "git",
