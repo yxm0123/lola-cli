@@ -1,11 +1,10 @@
 {
   "name": "@lola/lola-cli",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "自定义脚手架",
-  "main": "index.js",
+  "main": "dist/index.js",
   "bin": {
-    "lola-cli": "dist/index.js",
-    "lola-cli-dev": "index.js"
+    "lola-cli": "dist/index.js"
   },
   "repository": {
     "type": "git",
