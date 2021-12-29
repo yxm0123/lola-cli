@@ -19,8 +19,8 @@ module.exports = async (projectName) =>{
 					value:'vue3-project-template'
 				},
 				{
-					name: 'vue-tools',
-					value:'vue-tools'
+					name: 'tools-template',
+					value:'tools-template'
 				}
 			],
 			validate:(val)=>{
@@ -78,7 +78,7 @@ module.exports = async (projectName) =>{
 	}catch(e){
 		console.log(e)
 	}
-	
+
 	// inquirer.prompt(prompts).then(answer => {
 	//     console.log(answer)
 	//     // console.log(chalk.green('create start\n'))
